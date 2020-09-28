@@ -454,7 +454,6 @@ DOMAIN,itunes.apple.com
 DOMAIN,api-glb-sea.smoot.apple.com
 # >> Dictionary
 DOMAIN,lookup-api.apple.com
-PROCESS-NAME,LookupViewService
 # > Google
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,android.com
